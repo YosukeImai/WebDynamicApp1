@@ -1,0 +1,3 @@
+function clickTitle(){
+	alert("ボタンがクリックされました！");
+}
